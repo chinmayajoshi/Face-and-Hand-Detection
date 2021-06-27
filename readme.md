@@ -14,6 +14,12 @@ pip install mediapipe
 python facedetect.py
 ```
 
+```
+python facemesh.py
+```
+
+
+
 ## Credits: 
 
 Framework used: [Google's Mediapipe Face Detection](https://google.github.io/mediapipe/solutions/face_detection.html)
