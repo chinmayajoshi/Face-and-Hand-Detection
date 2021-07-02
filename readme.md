@@ -18,6 +18,11 @@ python facedetect.py
 python facemesh.py
 ```
 
+```
+python handdetect.py
+```
+
+> Press 'q' to close the program
 
 
 ## Credits: 
