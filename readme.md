@@ -22,7 +22,7 @@ python facemesh.py
 python handdetect.py
 ```
 
-> Press 'q' to close the program
+Press 'q' to close the program
 
 
 ## Credits: 
