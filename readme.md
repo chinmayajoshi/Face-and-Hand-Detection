@@ -1,4 +1,4 @@
-# Playing around with Face Detection
+# Playing around with Face and Hand Detection
 
 
 ## Libraries:
